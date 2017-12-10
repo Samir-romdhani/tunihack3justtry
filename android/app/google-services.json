@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1059500988614",
+    "firebase_url": "https://khadamni-d91f0.firebaseio.com",
+    "project_id": "khadamni-d91f0",
+    "storage_bucket": "khadamni-d91f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059500988614:android:73c9cabaf8d52bd6",
+        "android_client_info": {
+          "package_name": "com.mobileappintership"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059500988614-dsfa23hmn9tq6buuv99ch64s19hs6c1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFhxD8eeFJGO53XroZvt3NPi1bZ0gwXjc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
